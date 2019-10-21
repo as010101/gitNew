@@ -31,7 +31,7 @@ git add 1.txt
 git commit 
 
 
-在执行commit之前，选择先git add Cheatsheet.html或者git add
+在执行commit之前，选择先git add Cheatsheet.html或者git add （add即将其放到暂存区）
 
 
 git clone https://github.com/as010101/C-.git
