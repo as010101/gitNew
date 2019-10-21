@@ -38,4 +38,11 @@ git clone https://github.com/as010101/C-.git
 
 
    vi 的分割符  cd c:/users/xl/Desktop
+   
+   
+   
+ touch 创建文件
+ add 添加到暂存区
+ commit -m 添加到本地仓库
+ push 添加到远程仓库
 
