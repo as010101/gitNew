@@ -29,3 +29,6 @@ git add 1.txt
 
 提交
 git commit 
+
+
+在执行commit之前，选择先git add Cheatsheet.html或者git add
