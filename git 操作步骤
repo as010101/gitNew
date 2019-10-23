@@ -39,7 +39,12 @@ git clone https://github.com/as010101/C-.git
 
    vi 的分割符  cd c:/users/xl/Desktop
    
-   
+git branch -a 查看本地、远程所有分支
+git branch -r 查看远程分支
+
+git checkout -b branchname =git branch branchname+git checkout branchname
+然后直接将分支推到github
+ git push origin branchname
    
  touch 创建文件
  add 添加到暂存区
