@@ -51,3 +51,6 @@ git checkout -b branchname =git branch branchname+git checkout branchname
  commit -m 添加到本地仓库
  push 添加到远程仓库
 
+clone 是本地没有 repository 时，将远程 repository 整个下载过来。
+
+pull 是本地有 repository 时，将远程 repository 里新的 commit 数据(如有的话)下载过来，并且与本地代码merge。
