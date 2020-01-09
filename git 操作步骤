@@ -65,6 +65,9 @@ atal: refusing to merge unrelated histories
 解决办法
 git pull origin master --allow-unrelated-histories
 
+fatal: protocol 'https' is not supported
+解决办法：https 去掉 enter一下 再加上https enter一下就可以了
+
 将本地仓库的提交推送到远程github仓库上，使用的命令是：
 $ git push <远程主机名> <本地分支名>:<远程分支名>
 也就是
