@@ -1,3 +1,5 @@
+bash: $'\302\240docker': command not found 去掉 git前面的空格
+
 1. 设置用户名
 
 git config --global user.name 'itcastphpgit1'
